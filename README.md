@@ -1,3 +1,9 @@
+## 🖥️ Game Interface
+
+Here is a screenshot of the game running:
+
+![Terminal Demo](terminal-demo.png)
+
 # GuessGame
 
 A simple, interactive command-line game where the player tries to guess a randomly generated number within a specific range.
