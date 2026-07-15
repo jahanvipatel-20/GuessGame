@@ -2,7 +2,7 @@
 
 Here is a screenshot of the game running:
 
-![Terminal Demo](C:\Users\JAHANVI\OneDrive\Desktop\mega project\terminal-demo.png.png)
+![Terminal Demo](terminal-demo.png)
 
 # GuessGame
 
