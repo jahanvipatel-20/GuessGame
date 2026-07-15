@@ -1,6 +1,8 @@
-# Guessing Game 🎮
+## 🖥️ Game Interface
 
-[![Live Demo](https://img.shields.io/badge/Play_Game-Live_Demo-brightgreen?style=for-the-badge&logo=python)](YOUR_TRINKET_LINK_HERE)
+Here is a screenshot of the game running:
+
+![Terminal Demo](terminal-demo.png)
 
 # GuessGame
 
