@@ -7,3 +7,7 @@ A simple, interactive command-line game where the player tries to guess a random
 Random number generation.
 Real-time feedback (e.g., "higher number pls", "lower number pls").
 Score/Attempt tracking.
+
+## Terminal Preview
+
+![Terminal demo](terminal-demo.png)
