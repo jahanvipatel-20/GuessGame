@@ -2,7 +2,7 @@
 
 Here is a screenshot of the game running:
 
-![Terminal Demo](terminal-demo.png)
+![Terminal Demo](Terminal-demo.png)
 
 # GuessGame
 
